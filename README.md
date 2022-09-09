@@ -1,4 +1,4 @@
-# About Us
+# About Us Our Mission
 <font size="+5"><b>Inspiring Knowledge for the Future</b></font>
 
 
