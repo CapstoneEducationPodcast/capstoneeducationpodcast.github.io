@@ -11,7 +11,13 @@
 <picture></picture>
 #### VALUE STATEMENT
 The Capstone Vision prides itself on Pillars of Trust, Inclusivity, and Transparency in all that we do!
-
+~~~mermaid
+graph TD;
+Pillars-->Trust;
+Pillars-->Inclusivity;
+Trust-->Transparency;
+Inclusivity-->Transparency;
+~~~
 
 
 
