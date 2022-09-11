@@ -1,6 +1,6 @@
 # About Us 
 ## Our Mission
-### Inspiring Knowledge for the Future
+### Inspiring Knowledge for the Future --
 
 
 
