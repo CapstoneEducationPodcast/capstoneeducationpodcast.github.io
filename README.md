@@ -15,10 +15,10 @@ The Capstone Vision prides itself on Pillars of Trust, Inclusivity, and Transpar
 
 ```mermaid
 graph TD;
-    Pillars-->Trust;
-    Pillars-->Inclusivity;
-    Trust-->Transparency;
-    Inclusivity-->Transparency;
+Pillars-->Trust;
+Pillars-->Inclusivity;
+Trust-->Transparency;
+Inclusivity-->Transparency;
 ```
 
 
